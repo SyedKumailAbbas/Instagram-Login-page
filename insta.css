@@ -1,0 +1,165 @@
+body{
+    background-color: whitesmoke;
+}
+@font-face {
+    font-family: myfont;
+    src: url(./font/amsterdam-font/Amsterdam-ZVGqm.ttf);
+}
+#mobpic{
+    width: 350px;
+    height: 550px;
+    position: relative;
+    top: 30px;
+    left: 250px;
+}
+h1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: myfont;
+}
+#logindiv{
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    width: 350px;
+    position: relative;
+    top: -528px;
+    left: 630px;
+    line-height: 15px;
+    height: 420px;
+}
+form{
+    line-height: 40px;
+}
+input{
+    width: 250px;
+    height: 30px;
+    background-color: whitesmoke;
+    border: 0px;
+    
+}
+#loginbutton{
+    background-color: lightskyblue;
+    border: 0px;
+    width: 250px;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+}
+#hr1
+{
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    right: 6px;
+}
+#hr2
+{
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    left: 6px;
+}
+#or{
+
+    display: inline-block;
+    
+}
+#fbimage{
+width: 25px;
+position: relative;
+top: 4px;
+
+}
+#fblink{
+    text-decoration: none;
+    color: navy;
+}
+#forgetlink{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 10px;
+    
+}
+#signupdiv{
+    position: relative;
+    top: -510px;
+    left: 630px;
+    background-color: white;
+    width: 350px;
+    align-items: center;
+    text-align: center;
+
+}
+#account{
+    display: inline-block;
+}
+#signuplink{
+   text-decoration: none;
+   color: blue;
+}
+#getapp{
+    display: inline-block;
+    position: relative;
+    left: 800px;
+    top:-500px ;
+}
+#googlepic{
+    width: 100px;
+    height: 35px;
+    position: relative;
+    left: 660px;
+    top: -450px;
+}
+
+#mspic{
+    width: 100px;
+    position: relative;
+    left: 658px;
+    top: -450px;
+}
+
+#buttondiv{
+display: inline-block;
+position: relative;
+right: 10px;
+height: fit-content;
+
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline-block;
+    width: fit-content;
+    font-size: smaller;
+    padding-right: 10px;
+    
+}
+.footerelements{
+    text-decoration: none;
+    color: gray;
+}
+#Languages{
+background-color: whitesmoke;
+border: 0px;
+margin-left: 520px;
+color: grey;
+
+width: fit-content;
+
+}
+#footerpara{
+    color: grey;
+    font-size: small;
+    display: inline-block;
+}
+#footer{
+    position: relative;
+    top: -400px;
+    height: fit-content;
+}
